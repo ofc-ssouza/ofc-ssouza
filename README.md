@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ofc-ssouza
-- 👀 I’m interested in Front-end Developers language.
+- 👀 I’m interested in Front-end programming languages.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on collective projects in programming areas.
 - 📫 How to reach me: Here on my GitHub profile.
