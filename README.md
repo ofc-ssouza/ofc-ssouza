@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ofc-ssouza
+- 👋 Hi, I’m Paulo Henrique!
 - 👀 I’m interested in Front-end programming languages.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on collective projects in programming areas.
